@@ -2,7 +2,7 @@
 
 > 原文项目 demo: [Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary)
 
-> 双语对照地址: [【翻-双语】Android Design Support Library 的 代码实验——几行代码，让你的 APP 变得花俏](http://mrfufufu.github.io/english/2015/07/01/Translate_Codelab_Android_Design_Support_Library.html)
+> 双语对照地址: [【翻-双语】Android Design Support Library 的 代码实验——几行代码，让你的 APP 变得花俏](http://mrfufufu.github.io/english/2015/07/01/Translate_Codelab_Android_Design_Support_Library/)
 
 >* 翻译: [MrFu](http://mrfufufu.github.io/)
 >* 校验: [MrFu](http://mrfufufu.github.io/)
